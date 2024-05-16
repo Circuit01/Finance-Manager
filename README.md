@@ -1,5 +1,5 @@
 # Finance-Manager
-This Python finance manager (work in progress) tracks and visualises your expenses. With Tkinter and Matplotlib, users can add expenses, categorise them, and plot spending. Data is saved in a JSON file.
+This Python finance manager (work in progress) tracks and visualises your expenses. With Tkinter and Matplotlib, users can add expenses, categorise them, and plot spending. Currently, data is saved in a JSON file; however, I will upgrade to an SQL database in the future.
 
 ## Overview
 This Expense Tracker is a simple Python application that allows you to track and visualise your expenses over time. It provides a user-friendly interface to add expenses, save them to a JSON file, and plot spending data using a graph.
